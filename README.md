@@ -59,5 +59,15 @@ Here's an example of the output for each feature:
 - Ball: 2, Occurrences: 53
 - Ball: 3, Occurrences: 54
 
-### Create Quick Pick Combination
+### Generate Unique Quick Pick Combination
 - Combo - 3 29 48 51 59 25
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+
+If you have any questions or suggestions, please open an issue or contact [Stephen Blevins](mailto:scbdev2021@gmail.com).
+
+
